@@ -2,7 +2,7 @@
 
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQFvp9P0aouoag/profile-displaybackgroundimage-shrink_350_1400/0/1690742845802?e=1701907200&v=beta&t=pUYu7lM_Kl2RPrAS64Z04WZAlOpTb3_ml_EjkAHg-Cg)
 <h1 align="center">Hi 👋, I'm Anurag Khanna</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">A passionate Software Engineer</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annuraagggiiit&label=Profile%20views&color=0e75b6&style=plastic&theme=dark" alt="annuraagggiiit" /> </p>
 
