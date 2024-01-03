@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Blockchain , Competitive Programming , Data Structures & Algorithms**
 
-- 📫 How to reach me **anuragkhanna@iiitmanipur.ac.in**
+- 📫 How to reach me **https://anurag-khanna.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
