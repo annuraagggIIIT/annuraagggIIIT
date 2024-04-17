@@ -1,6 +1,5 @@
 
 
-![MasterHead](https://media.licdn.com/dms/image/D5616AQExN-uDUelYew/profile-displaybackgroundimage-shrink_350_1400/0/1703043008383?e=1709164800&v=beta&t=ER11rXdSF32D6eFZ81SUqiTuShTZEPtClB4peSNaEL4)
 <h1 align="center">Hi 👋, I'm Anurag Khanna</h1>
 
 
